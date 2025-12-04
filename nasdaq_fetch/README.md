@@ -17,12 +17,14 @@ No authentication or API key is required.
 
 ## How it works
 
-- `Utilities.py` — **business logic**
+- `nasdaq_client.py` — **business logic**
   - Handles HTTP requests to Nasdaq API
   - Parses the JSON response
-  - Saves results to CSV or JSON (the user has to chooose)
 
-- `nasdaq_fetch.py` — **user interface (CLI)**
+- `storage.py` - **Storage utilities**
+  - Saves stock data results to CSV or JSON (the user has to chooose)
+
+- `cli.py` — **user interface (CLI)**
     gives the following data for a list of the top stock:
     "symbol"
     "name"
@@ -35,17 +37,16 @@ No authentication or API key is required.
 - Data files are saved under `data/`  
   (this folder is ignored by Git)
 
-- need to install requests, pathlib, csv, json, typing if it is not installed
+- need to install `requests` if it is not already installed
 
 ## How to run
 For example:
 ```
-python nasdaq_fetch.py --top 100 --format json --out day04/data/top100.json
+pip install -e .
+nasdaq-stocks --top 100 --format json --out day04/data/top100.json
 ```
 
 ## Interaction with AI
 I used ChatGPT (GPT-5) to:
 design the structure separating UI and business logic
 write clean, minimal Python code for Nasdaq data fetching
-
-
