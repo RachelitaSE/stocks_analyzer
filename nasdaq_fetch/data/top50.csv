@@ -1,0 +1,11 @@
+symbol,name,lastsale,netchange,pctchange,marketCap,url
+NVDA,NVIDIA Corporation Common Stock,$178.88,-1.76,-0.974%,"4,346,784,000,000",/market-activity/stocks/nvda
+AAPL,Apple Inc. Common Stock,$271.49,5.24,1.968%,"4,011,632,075,970",/market-activity/stocks/aapl
+GOOGL,Alphabet Inc. Class A Common Stock,$299.66,10.21,3.527%,"3,615,997,220,000",/market-activity/stocks/googl
+GOOG,Alphabet Inc. Class C Capital Stock,$299.65,9.67,3.335%,"3,615,876,550,000",/market-activity/stocks/goog
+MSFT,Microsoft Corporation Common Stock,$472.12,-6.31,-1.319%,"3,508,974,138,479",/market-activity/stocks/msft
+AMZN,"Amazon.com, Inc. Common Stock",$220.69,3.55,1.635%,"2,359,223,771,468",/market-activity/stocks/amzn
+AVGO,Broadcom Inc. Common Stock,$340.20,-6.62,-1.909%,"1,606,548,580,484",/market-activity/stocks/avgo
+META,"Meta Platforms, Inc. Class A Common Stock",$594.25,5.10,0.866%,"1,497,823,524,517",/market-activity/stocks/meta
+TSM,Taiwan Semiconductor Manufacturing Company Ltd.,$275.06,-2.44,-0.879%,"1,426,611,520,999",/market-activity/stocks/tsm
+TSLA,"Tesla, Inc. Common Stock",$391.09,-4.14,-1.047%,"1,300,694,618,022",/market-activity/stocks/tsla

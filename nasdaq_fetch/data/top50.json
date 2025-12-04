@@ -1,0 +1,92 @@
+[
+  {
+    "symbol": "NVDA",
+    "name": "NVIDIA Corporation Common Stock",
+    "lastsale": "$178.88",
+    "netchange": "-1.76",
+    "pctchange": "-0.974%",
+    "marketCap": "4,346,784,000,000",
+    "url": "/market-activity/stocks/nvda"
+  },
+  {
+    "symbol": "AAPL",
+    "name": "Apple Inc. Common Stock",
+    "lastsale": "$271.49",
+    "netchange": "5.24",
+    "pctchange": "1.968%",
+    "marketCap": "4,011,632,075,970",
+    "url": "/market-activity/stocks/aapl"
+  },
+  {
+    "symbol": "GOOGL",
+    "name": "Alphabet Inc. Class A Common Stock",
+    "lastsale": "$299.66",
+    "netchange": "10.21",
+    "pctchange": "3.527%",
+    "marketCap": "3,615,997,220,000",
+    "url": "/market-activity/stocks/googl"
+  },
+  {
+    "symbol": "GOOG",
+    "name": "Alphabet Inc. Class C Capital Stock",
+    "lastsale": "$299.65",
+    "netchange": "9.67",
+    "pctchange": "3.335%",
+    "marketCap": "3,615,876,550,000",
+    "url": "/market-activity/stocks/goog"
+  },
+  {
+    "symbol": "MSFT",
+    "name": "Microsoft Corporation Common Stock",
+    "lastsale": "$472.12",
+    "netchange": "-6.31",
+    "pctchange": "-1.319%",
+    "marketCap": "3,508,974,138,479",
+    "url": "/market-activity/stocks/msft"
+  },
+  {
+    "symbol": "AMZN",
+    "name": "Amazon.com, Inc. Common Stock",
+    "lastsale": "$220.69",
+    "netchange": "3.55",
+    "pctchange": "1.635%",
+    "marketCap": "2,359,223,771,468",
+    "url": "/market-activity/stocks/amzn"
+  },
+  {
+    "symbol": "AVGO",
+    "name": "Broadcom Inc. Common Stock",
+    "lastsale": "$340.20",
+    "netchange": "-6.62",
+    "pctchange": "-1.909%",
+    "marketCap": "1,606,548,580,484",
+    "url": "/market-activity/stocks/avgo"
+  },
+  {
+    "symbol": "META",
+    "name": "Meta Platforms, Inc. Class A Common Stock",
+    "lastsale": "$594.25",
+    "netchange": "5.10",
+    "pctchange": "0.866%",
+    "marketCap": "1,497,823,524,517",
+    "url": "/market-activity/stocks/meta"
+  },
+  {
+    "symbol": "TSM",
+    "name": "Taiwan Semiconductor Manufacturing Company Ltd.",
+    "lastsale": "$275.06",
+    "netchange": "-2.44",
+    "pctchange": "-0.879%",
+    "marketCap": "1,426,611,520,999",
+    "url": "/market-activity/stocks/tsm"
+  },
+  {
+    "symbol": "TSLA",
+    "name": "Tesla, Inc. Common Stock",
+    "lastsale": "$391.09",
+    "netchange": "-4.14",
+    "pctchange": "-1.047%",
+    "marketCap": "1,300,694,618,022",
+    "url": "/market-activity/stocks/tsla"
+  }
+]
