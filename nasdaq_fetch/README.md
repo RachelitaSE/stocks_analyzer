@@ -1,4 +1,4 @@
-# Day 04 — Nasdaq Stock Data Downloader
+# Nasdaq Stock Data Downloader
 
 ## 📄 Overview
 This project downloads **stock-market data** from the public **Nasdaq** website and saves it locally as either **CSV** or **JSON**.  
@@ -43,9 +43,17 @@ No authentication or API key is required.
 For example:
 ```
 pip install -e .
-nasdaq-stocks --top 100 --format json --out day04/data/top100.json
+nasdaq-stocks --force --top 100 --format json --out day04/data/top100.json
 ```
+or 
+```
+python cli.py --top 100  --format json --out /data/top100.json
+```
+In order to see what all the arguments do to use the cli interface better run:
 
+```
+python cli.py --help
+```
 ## Interaction with AI
 I used ChatGPT (GPT-5) to:
 design the structure separating UI and business logic

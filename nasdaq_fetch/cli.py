@@ -16,8 +16,8 @@ import sys
 from pathlib import Path
 from typing import Literal
 
-from .nasdaq_client import fetch_top_stocks
-from .storage import save_csv, save_json
+from nasdaq_client import fetch_top_stocks
+from storage import save_csv, save_json
 
 logger = logging.getLogger(__name__)
 
